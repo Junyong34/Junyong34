@@ -8,9 +8,27 @@
 
 ### Tech Stack
 
-- Javascript | Typescript
-- React | Vue
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+ 
+ ### JS LIB
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 
+ ### UI Tool
+ <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat&logo=Ant Design&logoColor=white"/>  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
+
+### style
+ <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+
+
+### LIB
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=Axios&logoColor=white"/><img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
+
+### test
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat&logo=Testing Library&logoColor=white"/><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=Cypress&logoColor=white"/>
+
+### env
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white"/>
 
 <!--
 **Junyong34/Junyong34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
