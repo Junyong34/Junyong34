@@ -1,5 +1,6 @@
 
-![Uploading image (2).png…]()
+![image (2)](https://github.com/Junyong34/Nextjs-study/assets/25451713/919358ba-7d9c-4581-acc0-7b2c7f81ca21)
+
 
 
 ### 🏻‍💻   JunYong Park
