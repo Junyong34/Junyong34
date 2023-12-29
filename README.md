@@ -1,11 +1,12 @@
 
 <div align="center">
  
-![image (2)](https://github.com/Junyong34/Nextjs-study/assets/25451713/919358ba-7d9c-4581-acc0-7b2c7f81ca21)
+<img src="https://github.com/Junyong34/Nextjs-study/assets/25451713/919358ba-7d9c-4581-acc0-7b2c7f81ca21" alt="DevPark" width="300" height="300">
 
-# 🏻‍💻   JunYong Park
+#    JunYong Park
 
- Frontend Developer
+
+ 👉 Frontend Developer
   
 <br/>
 <br/>
