@@ -1,7 +1,7 @@
 
 <div align="center">
  
-<img src="https://github.com/Junyong34/Nextjs-study/assets/25451713/919358ba-7d9c-4581-acc0-7b2c7f81ca21" alt="DevPark" width="300" height="300">
+<img src="https://github.com/Junyong34/Nextjs-study/assets/25451713/919358ba-7d9c-4581-acc0-7b2c7f81ca21" alt="DevPark" width="250" height="250">
 
 #    JunYong Park
 
@@ -16,6 +16,9 @@ Tech Stack
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,emotion,webpack,nodejs,jenkins,github,git,docker&perline=6"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junyong34&layout=compact&theme=dark) 
+
+</div> 
 <!-- ### Tech Stack
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
