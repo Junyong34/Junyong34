@@ -1,15 +1,21 @@
 
+<div align="center">
+ 
 ![image (2)](https://github.com/Junyong34/Nextjs-study/assets/25451713/919358ba-7d9c-4581-acc0-7b2c7f81ca21)
 
+# 🏻‍💻   JunYong Park
 
+ Frontend Developer
+  
+<br/>
+<br/>
+Tech Stack
+<br/>
+<p herf="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,emotion,webpack,nodejs,jenkins,github,git,docker&perline=6"/>
+</p>
 
-### 🏻‍💻   JunYong Park
-
-- Frontend Developer
-- 새로운 변화를 받아들이며, 성장에 배고픔이 많은 개발자 입니다.
-
-
-### Tech Stack
+<!-- ### Tech Stack
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
  
@@ -37,6 +43,7 @@
 ### docs
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 
+-->
 <!--
 **Junyong34/Junyong34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
