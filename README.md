@@ -6,7 +6,7 @@
 #    JunYong Park
 
 
- 👉 Frontend Developer
+ 👉 성장과 변화를 즐기며, 기술과 비즈니스를 연결하는 Frontend Developer
   
 <br/>
 <br/>
