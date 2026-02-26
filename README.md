@@ -18,7 +18,6 @@ Tech Stack
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,emotion,webpack,nodejs,jenkins,github,git,docker&perline=6"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junyong34&layout=compact&theme=dark) 
 
 </div> 
 <!-- ### Tech Stack
