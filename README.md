@@ -11,6 +11,8 @@
     Frontend Developer
   
 <br/>
+- 📘 [Next.js App Router 학습 사이트](https://www.learn-nextjs-lab.space/)  
+  Next.js App Router의 핵심 개념과 동작 방식을 직접 정리하고 학습할 수 있도록 만든 사이트입니다.
 <br/>
 Tech Stack
 <br/>
